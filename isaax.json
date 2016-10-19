@@ -1,0 +1,12 @@
+{
+  "name": "golang-app",
+  "version": "",
+  "description": "My GoLang app",
+  "main": "main.go",
+  "author": "",
+  "license": "",
+  "scripts": {
+     "start": "go run main.go"
+    },
+   "dependency": null
+}
